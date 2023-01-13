@@ -1,7 +1,6 @@
 from math import inf
 import random 
 import numpy as np
-from wcwidth import wcswidth
 
 machNo = 3 # int(input("How many machines do you have? "))
 job = 3 # int(input("How many jobs do you have? "))
